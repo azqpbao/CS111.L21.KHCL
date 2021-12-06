@@ -1,0 +1,9 @@
+Hãy sử dụng ngôn ngữ Bare bones để viết các đoạn chương trình thực hiện các yêu cầu sau :
+
+1. Tính giá trị biểu thức Z = X*X , với X là số nguyên đầu vào, Z là số nguyên kết quả
+
+2. Tính giá trị biểu thức Z = 1 + 2 + 3 + ... + X , với X là số nguyên đầu vào, Z là số nguyên kết quả
+
+3. Tính giá trị biểu thức Z = X % Y , với X, Y là số nguyên đầu vào, Z là số nguyên kết quả, phép toán % : phép toán chia lấy dư. Ví dụ : X= 5, Y = 3, X % Y = 2.
+
+4. Với X là số nguyên đầu vào, nếu X là số chẵn thì gán Z = 1, ngược lại gán Z =0.
